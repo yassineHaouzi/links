@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "babel-register": "^6.26.0",
+    "browserstack-webdriver": "^2.41.1",
+    "chai": "^4.2.0",
+    "chromedriver": "^80.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mocha": "^7.1.0",
+    "promise": "^8.0.3",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
+}
