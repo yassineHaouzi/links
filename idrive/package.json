@@ -14,7 +14,7 @@
     "browserstack-webdriver": "^2.41.1",
     "chai": "^4.2.0",
     "chromedriver": "^80.0.1",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "fs": "0.0.1-security",
     "mocha": "^7.1.0",
     "promise": "^8.0.3",
