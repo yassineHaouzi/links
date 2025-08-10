@@ -18,7 +18,7 @@
     "fs": "0.0.1-security",
     "mocha": "^7.1.0",
     "promise": "^8.0.3",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.0.0"
   },
   "directories": {
     "test": "test"
