@@ -16,7 +16,7 @@
     "chromedriver": "^80.0.1",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "mocha": "^7.1.0",
+    "mocha": "^10.6.0",
     "promise": "^8.0.3",
     "selenium-webdriver": "^4.0.0-alpha.5"
   },
